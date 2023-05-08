@@ -1,0 +1,23 @@
+{
+  "name": "kursfabrykatest-w",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ironking666/kursFabrykaTest-w.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ironking666/kursFabrykaTest-w/issues"
+  },
+  "homepage": "https://github.com/ironking666/kursFabrykaTest-w#readme",
+  "devDependencies": {
+    "cypress": "^12.10.0",
+    "@faker-js/faker": "7.6.0"
+  }
+}
